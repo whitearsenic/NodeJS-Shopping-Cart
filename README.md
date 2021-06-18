@@ -3,7 +3,7 @@ A shopping cart made with NodeJS, Express, MongoDB, Bootstrap, and more
 
 Note:
 
-MongoDB runs on the Mac OS X version, feel free to use whatever version that suits your OS.
+MongoDB 3.6.17 runs on the MacOS 10.14 version, feel free to use whatever version that suits your OS.
 
 To run:
 
